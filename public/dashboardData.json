@@ -1,0 +1,179 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        { "id": 101, "name": "Widget 1", "text": "This is widget 1 text" }
+      ],
+      "availableWidgets": [
+        { "id": 101, "name": "Widget 1", "text": "This is widget 1 text" },
+        { "id": 102, "name": "Widget 2", "text": "This is widget 2 text" },
+        { "id": 103, "name": "Widget 3", "text": "This is widget 3 text" },
+        { "id": 104, "name": "Widget 4", "text": "This is widget 4 text" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Security Monitoring",
+      "widgets": [
+        {
+          "id": 201,
+          "name": "Widget 1",
+          "text": "This is widget 1 text"
+        },
+        {
+          "id": 202,
+          "name": "Widget 2",
+          "text": "This is widget 2 text"
+        }
+      ],
+      "availableWidgets": [
+        {
+          "id": 201,
+          "name": "Widget 1",
+          "text": "This is widget 1 text"
+        },
+        {
+          "id": 202,
+          "name": "Widget 2",
+          "text": "This is widget 2 text"
+        },
+        {
+          "id": 203,
+          "name": "Widget 3",
+          "text": "This is widget 3 text"
+        },
+        {
+          "id": 204,
+          "name": "Widget 4",
+          "text": "This is widget 4 text"
+        },
+        {
+          "id": 205,
+          "name": "Widget 5",
+          "text": "This is widget 5 text"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Cloud Infrastructure",
+      "widgets": [
+        {
+          "id": 301,
+          "name": "Widget 1",
+          "text": "This is widget 1 text"
+        },
+        {
+          "id": 302,
+          "name": "Widget 2",
+          "text": "This is widget 2 text"
+        }
+      ],
+      "availableWidgets": [
+        {
+          "id": 301,
+          "name": "Widget 1",
+          "text": "This is widget 1 text"
+        },
+        {
+          "id": 302,
+          "name": "Widget 2",
+          "text": "This is widget 2 text"
+        },
+        {
+          "id": 303,
+          "name": "Widget 3",
+          "text": "This is widget 3 text"
+        },
+        {
+          "id": 304,
+          "name": "Widget 4",
+          "text": "This is widget 4 text"
+        },
+        {
+          "id": 305,
+          "name": "Widget 5",
+          "text": "This is widget 5 text"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Compliance Reports",
+      "widgets": [
+        {
+          "id": 401,
+          "name": "Widget 1",
+          "text": "This is widget 1 text"
+        }
+      ],
+      "availableWidgets": [
+        {
+          "id": 401,
+          "name": "Widget 1",
+          "text": "This is widget 1 text"
+        },
+        {
+          "id": 402,
+          "name": "Widget 2",
+          "text": "This is widget 2 text"
+        },
+        {
+          "id": 403,
+          "name": "Widget 3",
+          "text": "This is widget 3 text"
+        },
+        {
+          "id": 404,
+          "name": "Widget 4",
+          "text": "This is widget 4 text"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "DevOps Metrics",
+      "widgets": [
+        {
+          "id": 501,
+          "name": "Widget 1",
+          "text": "This is widget 1 text"
+        },
+        {
+          "id": 502,
+          "name": "Widget 2",
+          "text": "This is widget 2 text"
+        }
+      ],
+      "availableWidgets": [
+        {
+          "id": 501,
+          "name": "Widget 1",
+          "text": "This is widget 1 text"
+        },
+        {
+          "id": 502,
+          "name": "Widget 2",
+          "text": "This is widget 2 text"
+        },
+        {
+          "id": 503,
+          "name": "Widget 3",
+          "text": "This is widget 3 text"
+        },
+        {
+          "id": 504,
+          "name": "Widget 4",
+          "text": "This is widget 4 text"
+        },
+        {
+          "id": 505,
+          "name": "Widget 5",
+          "text": "This is widget 5 text"
+        }
+      ]
+    }
+  ]
+}
