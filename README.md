@@ -1,12 +1,41 @@
-# React + Vite
+# 📝 Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A feature-rich and interactive dashboard built with React, enabling users to manage, monitor, and analyze data dynamically. The dashboard includes customizable widgets, real-time search, and a responsive layout for both desktop and mobile.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- **Dynamic Widget Management**: Add, remove, and configure widgets on the dashboard dynamically.
+- **Search & Filter**: Quickly search through widgets or data panels for easy access.
+- **Real-time Data Display**: Widgets update in real-time to show the latest data
+- **Customizable Categories** Group widgets into categories and toggle between them easily.
+- **Local Storage Support**: Saves user configuration locally so data persists on page reload.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Tech Stack
+
+- **Frontend**: React, Tailwind CSS
+- **State Management**: React hooks with localStorage
+- **Deployment**: Vercel
+
+---
+
+## 🛠️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Darkhunt16/AccuKnox-Assignment.git
+   cd AccuKnox-Assignment
+
+2. **Install dependencies**
+   ```bash
+   npm install
+
+3. **Run locally**
+   ```bash
+   npm run dev
+
+# Live demo :rocket:
+
