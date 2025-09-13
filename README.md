@@ -38,4 +38,4 @@ A feature-rich and interactive dashboard built with React, enabling users to man
    npm run dev
 
 # Live demo :rocket:
-
+https://accu-knox-assignment-680.vercel.app/
